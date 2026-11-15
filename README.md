@@ -245,7 +245,7 @@ Overall, this project strengthened my understanding of the reconnaissance phase 
 ![WHOIS Result](screenshots/Whois.jpg)
 
 ### 8.2 WhatWeb – Technology Identification
-![WhatWeb Result](screenshots/Whatweb.jpg)
+![WhatWeb Result](screenshots/whatweb.jpg)
 
 ### 8.3 Nslookup – DNS Resolution
 ![Nslookup Result](screenshots/nslookup.jpg)
@@ -260,19 +260,19 @@ Overall, this project strengthened my understanding of the reconnaissance phase 
 ![DNSRecon Result](screenshots/dnsrecon.jpg)
 
 ### 8.7 theHarvester – Multiple Sources
-![theHarvester Multiple Sources](screenshots/theharvester-all.jpg)
+![theHarvester Multiple Sources](screenshots/theharvester%20with%20all.jpg)
 
 ### 8.8 theHarvester – Baidu Search
-![theHarvester Baidu Result](screenshots/theharvester-baidu.jpg)
+![theHarvester Baidu Result](screenshots/theharvester%20baidu.jpg)
 
 ### 8.9 Maltego – Domain and Email Relationship
 ![Maltego Graph](screenshots/maltego.jpg)
 
 ### 8.10 Zenmap – Network Scan Result
-![Zenmap Scan Result](screenshots/zenmap.jpg)
+![Zenmap Scan Result](screenshots/Zenmap.jpg)
 
 ### 8.11 Zenmap – Network Topology
-![Zenmap Topology](screenshots/zenmap-topology.jpg)
+![Zenmap Topology](screenshots/Zenmap%20topology.jpg)
 
 ## 9. Disclaimer
 
