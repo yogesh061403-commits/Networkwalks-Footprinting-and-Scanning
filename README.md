@@ -242,37 +242,37 @@ Overall, this project strengthened my understanding of the reconnaissance phase 
 ## 8. Evidence Collected
 
 ### 8.1 WHOIS – Domain Information
-![WHOIS Result](screenshots/01-whois.png)
+![WHOIS Result](screenshots/Whois.jpg)
 
 ### 8.2 WhatWeb – Technology Identification
-![WhatWeb Result](screenshots/02-whatweb.png)
+![WhatWeb Result](screenshots/Whatweb.jpg)
 
 ### 8.3 Nslookup – DNS Resolution
-![Nslookup Result](screenshots/03-nslookup.png)
+![Nslookup Result](screenshots/nslookup.jpg)
 
 ### 8.4 cURL – HTTP Response Headers
-![HTTP Headers Result](screenshots/04-curl.png)
+![HTTP Headers Result](screenshots/curl.jpg)
 
 ### 8.5 Wafw00f – WAF Detection
-![Wafw00f Result](screenshots/05-wafw00f.png)
+![Wafw00f Result](screenshots/wafw00f.jpg)
 
 ### 8.6 DNSRecon – DNS Enumeration
-![DNSRecon Result](screenshots/06-dnsrecon.png)
+![DNSRecon Result](screenshots/dnsrecon.jpg)
 
 ### 8.7 theHarvester – Multiple Sources
-![theHarvester Multiple Sources](screenshots/07-theharvester-all.png)
+![theHarvester Multiple Sources](screenshots/theharvester-all.jpg)
 
 ### 8.8 theHarvester – Baidu Search
-![theHarvester Baidu Result](screenshots/08-theharvester-baidu.png)
+![theHarvester Baidu Result](screenshots/theharvester-baidu.jpg)
 
 ### 8.9 Maltego – Domain and Email Relationship
-![Maltego Graph](screenshots/09-maltego.png)
+![Maltego Graph](screenshots/maltego.jpg)
 
 ### 8.10 Zenmap – Network Scan Result
-![Zenmap Scan Result](screenshots/10-zenmap-scan.png)
+![Zenmap Scan Result](screenshots/zenmap.jpg)
 
 ### 8.11 Zenmap – Network Topology
-![Zenmap Topology](screenshots/11-zenmap-topology.png)
+![Zenmap Topology](screenshots/zenmap-topology.jpg)
 
 ## 9. Disclaimer
 
